@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" encoding="UTF-8" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+	<channel>
+        <title>播客订阅示例</title>
+        <link>https://music.163.com/djradio?id=1005742348</link>
+        <pubDate>Tue, 12 Nov 2024 03:01:25 +0800</pubDate>
+        <generator>创建者</generator>
+        <language>zh</language>
+        <description><![CDATA[ 她这一生称得上热爱的，只有唐若遥 (来自： https://music.163.com/djradio?id=1005742348 ) ]]></description>
+        <itunes:image href="https://p2.music.126.net/SQ1cofUPwrLJgjOoaBWEew==/109951169664698677.jpg?param=3000y3000"/>
+        <itunes:author>音熊联萌</itunes:author>
+        <itunes:summary>一档关于人工智能的连续型播客，从基础概念讲到产业落地。</itunes:summary>
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:type>serial</itunes:type>
+        <itunes:owner>
+            <itunes:name>饭角</itunes:name>
+            <itunes:email>kefu@fanjiao.co</itunes:email>
+        </itunes:owner>
+        <itunes:category text="Fiction">
+            <itunes:category text="Drama"/>
+        </itunes:category>
+        <item>
+			<title>S02E01 本色进组</title>
+			<link>https://music.163.com/m/program?id=2545755039&amp;radio=1005742348</link>
+			<pubDate>Thu, 15 Jun 2023 13:36:46 +0800</pubDate>
+			<guid>163_2544284469</guid>
+			<enclosure url="https://audio.getpodcast.xyz/redirect/163/2164326852.mp3?utm_campaign=163-1005742348-%E6%94%BE%E8%82%86&amp;utm_content=%E7%AC%AC%E4%B8%80%E6%9C%9F%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%AD%A3%EF%BC%89&amp;utm_medium=163&amp;utm_source=rss&amp;utm_term=2545755039" type="audio/mpeg"/>
+			<description><![CDATA[ <p>查看节目原文：<br/><a href="https://music.163.com/m/program?id=2544284469&radio=1004799241">https://music.163.com/m/program?id=2544284469&radio=1004799241</a></p> ]]></description>
+			<itunes:duration>00:39:34</itunes:duration>
+			<itunes:image href="https://p2.music.126.net/aZw-6Rb3ruxy-Etor4Hj4w==/109951169591705243.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>1</itunes:episode>
+            <podcast:season name="第二季">2</podcast:season>
+            <podcast:episode display="第一集">1</podcast:episode>
+            <podcast:transcript url="https://alanyuchen.github.io/RSS/transcript/fongshi-01-01.vtt" type="text/vtt"/>
+        </item>
+        <item>
+            <title>S01E01 演技派</title>
+            <link>https://music.163.com/m/program?id=2545725090&amp;radio=1005742348</link>
+            <pubDate>Thu, 11 Aug 2022 15:01:01 +0800</pubDate>
+            <guid>163_2544276471</guid>
+            <enclosure url="https://audio.getpodcast.xyz/redirect/163/2164311541.mp3?utm_campaign=163-1005742348-%E6%94%BE%E8%82%86&amp;utm_content=%E7%AC%AC%E4%B8%80%E6%9C%9F%EF%BC%88%E7%AC%AC%E4%B8%80%E5%AD%A3%EF%BC%89&amp;utm_medium=163&amp;utm_source=rss&amp;utm_term=2545725090" type="audio/mpeg"/>
+            <description><![CDATA[ <p>查看节目原文：<br/><a href="https://music.163.com/m/program?id=2544276471&radio=1004745241">https://music.163.com/m/program?id=2544276471&radio=1004745241</a></p> ]]></description>
+            <itunes:duration>00:32:49</itunes:duration>
+            <itunes:image href="https://p1.music.126.net/TpmRJ73j4t0cPt6pvwlF9A==/109951169591705612.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>1</itunes:episode>
+            <podcast:season name="第一季">1</podcast:season>
+            <podcast:episode display="第一集">1</podcast:episode>
+            <podcast:transcript url="https://alanyuchen.github.io/RSS/transcript/fongshi-01-01.vtt" type="text/vtt"/>
+        </item>
+    </channel>
+</rss>
