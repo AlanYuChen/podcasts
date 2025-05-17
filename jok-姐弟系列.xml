@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" encoding="UTF-8" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+	<channel>
+		<title>姐弟系列</title>
+		<link>https://www.asmr.loan/asmr/%E4%B8%AD%E6%96%87%E9%9F%B3%E5%A3%B0/jok</link>
+		<pubDate>Thu, 11 Aug 2022 15:01:01 +0800</pubDate>
+		<generator>jok</generator>
+		<language>zh-CN</language>
+		<itunes:image href="https://p2.music.126.net/TpmRJ73j4t0cPt6pvwlF9A==/109951169591705612.jpg?param=3000y3000"/>
+		<description><![CDATA[ Jok 姐弟系列 ]]></description>
+		<itunes:author>jok</itunes:author>
+		<itunes:owner>
+			<itunes:name>jok</itunes:name>
+		</itunes:owner>
+		<itunes:type>episodic</itunes:type>
+		<itunes:category text="Fiction">
+			<itunes:category text="Drama"/>
+		</itunes:category>
+		<item>
+			<title>第二集·事后</title>
+			<link>https://music.163.com/m/program?id=2544213471&amp;radio=1004745241</link>
+			<pubDate>Thu, 11 Aug 2022 15:13:17 +0800</pubDate>
+			<guid>163_2544213471</guid>
+			<enclosure url="https://www.asmr.loan/d/asmr/%E4%B8%AD%E6%96%87%E9%9F%B3%E5%A3%B0/jok/vol16%20%20%20%20%20%20%20%20%20%E5%A7%90%E5%BC%9F2%20%E4%BA%8B%E5%90%8E.mp3?sign=hZFX4VQtuJx1ogH6VVwmGPd40f5z2t1Gd6beLZOo6zU=:1825252584" type="audio/mpeg"/>
+			<itunes:duration>00:35:15</itunes:duration>
+			<description><![CDATA[ Jok 姐弟系列 ]]></description>
+			<itunes:image href="https://p2.music.126.net/TpmRJ73j4t0cPt6pvwlF9A==/109951169591705612.jpg"/>
+		</item>
+		<item>
+			<title>第一集·跨年</title>
+			<link>https://music.163.com/m/program?id=2544290468&amp;radio=1004745241</link>
+			<pubDate>Thu, 11 Aug 2022 15:12:16 +0800</pubDate>
+			<guid>163_2544290468</guid>
+			<enclosure url="https://www.asmr.loan/d/asmr/%E4%B8%AD%E6%96%87%E9%9F%B3%E5%A3%B0/jok/vol15%20%20%20R%20%20%20%20%E5%A7%90%E5%BC%9F1%E8%B7%A8%E5%B9%B4.mp3?sign=iGsdVBkLnOWqrtV5hrzNWDRfzIbC6X84uwxJ_HTOrPE=:1825252584" type="audio/mpeg"/>
+			<itunes:duration>00:37:00</itunes:duration>
+			<description><![CDATA[ Jok 姐弟系列 ]]></description>
+			<itunes:image href="https://p2.music.126.net/TpmRJ73j4t0cPt6pvwlF9A==/109951169591705612.jpg"/>
+		</item>
+	</channel>
+</rss>
