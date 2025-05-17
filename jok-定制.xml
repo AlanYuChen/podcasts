@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" encoding="UTF-8" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+	<channel>
+		<title>jok定制</title>
+		<link>https://www.asmr.loan/asmr/%E4%B8%AD%E6%96%87%E9%9F%B3%E5%A3%B0/jok</link>
+		<pubDate>Thu, 11 Aug 2022 15:01:01 +0800</pubDate>
+		<generator>jok</generator>
+		<language>zh-CN</language>
+		<itunes:image href="https://p1.music.126.net/kekg-DZw8y88nwhV8DUm8Q==/109951163540109251.jpg?param=2000y2000"/>
+		<description><![CDATA[ Jok 定制 ]]></description>
+		<itunes:author>jok</itunes:author>
+		<itunes:owner>
+			<itunes:name>jok</itunes:name>
+		</itunes:owner>
+		<itunes:type>episodic</itunes:type>
+		<itunes:category text="Sleep Aids">
+			<itunes:category text="ASMR"/>
+		</itunes:category>
+		<item>
+			<title>浴室Play</title>
+			<link>https://1drv.ms/u/c/de70e591e5658c2f/EVgntWnpw1lLnh4XFbL1thcBrdLO_1LqVm5kSZ6K0YH8zQ?e=l7LFfe</link>
+			<pubDate>Thu, 11 Aug 2022 15:03:16 +0800</pubDate>
+			<guid>asmr-jok-vol-dz-003</guid>
+			<enclosure url="https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvYy9kZTcwZTU5MWU1NjU4YzJmL0VWZ250V25wdzFsTG5oNFhGYkwxdGhjQnJkTE9fMUxxVm01a1NaNkswWUg4elE_ZT1sN0xGZmU.jpg" type="audio/mpeg"/>
+			<itunes:duration>00:14:52</itunes:duration>
+			<description><![CDATA[ Jok 定制 ]]></description>
+			<itunes:image href="https://p1.music.126.net/kekg-DZw8y88nwhV8DUm8Q==/109951163540109251.jpg"/>
+		</item>
+		<item>
+			<title>男科医生的特殊治疗</title>
+			<link>https://1drv.ms/u/c/de70e591e5658c2f/Ea4oYjSCUyxDvTmAk4pAT-4BSZpFt0fEMUDMOqszWWgzww?e=wypVNU</link>
+			<pubDate>Thu, 11 Aug 2022 15:02:16 +0800</pubDate>
+			<guid>asmr-jok-vol-dz-002</guid>
+			<enclosure url="https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvYy9kZTcwZTU5MWU1NjU4YzJmL0VhNG9ZalNDVXl4RHZUbUFrNHBBVC00QlNacEZ0MGZFTVVETU9xc3pXV2d6d3c_ZT13eXBWTlU.jpg" type="audio/mpeg"/>
+			<itunes:duration>00:25:22</itunes:duration>
+			<description><![CDATA[ Jok 定制 ]]></description>
+			<itunes:image href="https://p1.music.126.net/kekg-DZw8y88nwhV8DUm8Q==/109951163540109251.jpg"/>
+		</item>
+		<item>
+			<title>报答救妹之恩</title>
+			<link>https://1drv.ms/u/c/de70e591e5658c2f/EUv8D3eMXExOulqA1UdGa-EBioCeMYq8DDWKIcASx7gMVw?e=XBaTf3</link>
+			<pubDate>Thu, 11 Aug 2022 15:01:16 +0800</pubDate>
+			<guid>asmr-jok-vol-dz-001</guid>
+			<enclosure url="https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvYy9kZTcwZTU5MWU1NjU4YzJmL0VVdjhEM2VNWEV4T3VscUExVWRHYS1FQmlvQ2VNWXE4RERXS0ljQVN4N2dNVnc_ZT1YQmFUZjM.jpg" type="audio/mpeg"/>
+			<itunes:duration>00:20:15</itunes:duration>
+			<description><![CDATA[ Jok 定制 ]]></description>
+			<itunes:image href="https://p1.music.126.net/kekg-DZw8y88nwhV8DUm8Q==/109951163540109251.jpg"/>
+		</item>
+	</channel>
+</rss>
