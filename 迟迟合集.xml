@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" encoding="UTF-8" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+	<channel>
+		<title>ASMR 迟迟合集</title>
+		<link>https://space.bilibili.com/362774786</link>
+		<pubDate>Thu, 11 Aug 2022 15:01:01 +0800</pubDate>
+		<generator>Chichi-迟迟</generator>
+		<language>zh-CN</language>
+		<itunes:image href="https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_o0oeEGFnA7CJQK9DAADAIKwr91mgcCDAA3EFfO~c5_300x300.jpeg?from=2956013662"/>
+		<description><![CDATA[ 合作/音声定制请私信 抖同名 vb阿迟_7 盒岛:11969M 每周六晚10点播 通知群:143912309（满）/1028061938 ]]></description>
+		<itunes:author>Chichi-迟迟</itunes:author>
+		<itunes:owner>
+			<itunes:name>Chichi-迟迟</itunes:name>
+		</itunes:owner>
+		<itunes:type>episodic</itunes:type>
+		<itunes:category text="Sleep Aids">
+			<itunes:category text="ASMR"/>
+		</itunes:category>
+		<item>
+			<title>报答救妹之恩</title>
+			<link>https://1drv.ms/u/c/de70e591e5658c2f/EbstrDCsoDFOki8_-l7Ia-wBNDqurHBciGj5RdIfmSKYEw?e=T2kQNj</link>
+			<pubDate>Thu, 11 Aug 2022 15:01:01 +0800</pubDate>
+			<guid>asmr-chichi-vol-0001</guid>
+			<enclosure url="https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvYy9kZTcwZTU5MWU1NjU4YzJmL0Vic3RyRENzb0RGT2tpOF8tbDdJYS13Qk5EcXVySEJjaUdqNVJkSWZtU0tZRXc_ZT1UMmtRTmo.mp3" type="audio/mpeg"/>
+			<itunes:duration>00:20:01</itunes:duration>
+			<description><![CDATA[ 迟迟 ]]></description>
+			<itunes:image href="https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_o0oeEGFnA7CJQK9DAADAIKwr91mgcCDAA3EFfO~c5_300x300.jpeg?from=2956013662"/>
+		</item>
+	</channel>
+</rss>
