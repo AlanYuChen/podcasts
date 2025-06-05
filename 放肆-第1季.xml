@@ -6,7 +6,6 @@
 		<pubDate>Thu, 11 Aug 2022 15:01:01 +0800</pubDate>
 		<generator>音熊联萌</generator>
 		<language>zh-CN</language>
-		<itunes:image href="https://p2.music.126.net/TpmRJ73j4t0cPt6pvwlF9A==/109951169591705612.jpg?param=3000y3000"/>
 		<description><![CDATA[ 年仅22岁的唐若遥摘下影后桂冠，前途光明。隔天媒体铺天盖地发通稿，盛誉其为“小秦意浓”。
 唐若遥粉丝怒不可遏，秦意浓长了张祸国殃民的脸，在圈内名声极差，男女不论、荤素不忌，传言大半个娱乐圈都是她的情人，她还未婚生女，孩子都几岁了！无良媒体，辱我爱豆！
 秦意浓粉丝也炸了，我家国内外影后拿到手软，唐若遥给秦意浓提鞋都不配，简直登月碰瓷！
@@ -23,6 +22,7 @@
 娱乐圈…….沸腾了。
 CP：纯情罂粟&amp;高岭之花
 双影后同台飙戏，HE ]]></description>
+		<itunes:image href="https://p2.music.126.net/TpmRJ73j4t0cPt6pvwlF9A==/109951169591705612.jpg?param=3000y3000"/>
 		<itunes:author>音熊联萌</itunes:author>
 		<itunes:owner>
 			<itunes:name>饭角</itunes:name>
@@ -32,6 +32,8 @@ CP：纯情罂粟&amp;高岭之花
 		<itunes:category text="Fiction">
 			<itunes:category text="Drama"/>
 		</itunes:category>
+		<itunes:explicit>true</itunes:explicit>
+		<itunes:complete>yes</itunes:complete>
 		<item>
 			<title>第十三集·晚安</title>
 			<link>https://music.163.com/m/program?id=2545753998&amp;radio=1005742348</link>

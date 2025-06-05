@@ -6,8 +6,8 @@
 		<pubDate>Tue, 12 Nov 2024 03:01:25 +0800</pubDate>
 		<generator>getpodcast.xyz</generator>
 		<language>zh-CN</language>
-		<itunes:image href="https://p2.music.126.net/SQ1cofUPwrLJgjOoaBWEew==/109951169664698677.jpg?param=3000y3000"/>
 		<description><![CDATA[ 她这一生称得上热爱的，只有唐若遥 (来自： https://music.163.com/djradio?id=1005742348 ) ]]></description>
+		<itunes:image href="https://p2.music.126.net/SQ1cofUPwrLJgjOoaBWEew==/109951169664698677.jpg?param=3000y3000"/>
 		<itunes:author>loser_410</itunes:author>
 		<itunes:owner>
 			<itunes:name>loser_410</itunes:name>
@@ -17,6 +17,8 @@
 		<itunes:category text="Fiction">
 			<itunes:category text="Drama"/>
 		</itunes:category>
+		<itunes:explicit>true</itunes:explicit>
+		<itunes:complete>yes</itunes:complete>
 		<item>
 			<title>第十六期（完结）</title>
 			<link>https://music.163.com/m/program?id=3065768121&amp;radio=1005742348</link>

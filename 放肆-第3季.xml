@@ -6,8 +6,8 @@
 		<pubDate>Sat, 09 Nov 2024 01:39:00 +0800</pubDate>
 		<generator>音熊联萌</generator>
 		<language>zh-CN</language>
-		<itunes:image href="https://p1.music.126.net/6h5mwG2ojrUOiJNNKWXJqQ==/109951169802895109.jpg?param=3000y3000"/>
 		<description><![CDATA[ 结发妻妻，恩爱两不疑。惟愿卿心似我心，定不负、相思意。]]></description>
+		<itunes:image href="https://p1.music.126.net/6h5mwG2ojrUOiJNNKWXJqQ==/109951169802895109.jpg?param=3000y3000"/>
 		<itunes:author>音熊联萌</itunes:author>
 		<itunes:owner>
 			<itunes:name>饭角</itunes:name>
@@ -17,6 +17,8 @@
 		<itunes:category text="Fiction">
 			<itunes:category text="Drama"/>
 		</itunes:category>
+		<itunes:explicit>true</itunes:explicit>
+		<itunes:complete>yes</itunes:complete>
 		<item>
 			<title>第十六期·官宣</title>
 			<link>https://music.163.com/m/program?id=3065557385&amp;radio=1210181628</link>
