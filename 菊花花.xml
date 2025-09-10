@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" encoding="UTF-8" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>ASMR 菊花花</title>
+        <link>https://space.bilibili.com/362774786</link>
+        <pubDate>Thu, 11 Aug 2022 15:01:01 +0800</pubDate>
+        <generator>菊花花</generator>
+        <language>zh-CN</language>
+        <description><![CDATA[ 此女子看似温婉实则爆烈（裂） ]]></description>
+        <itunes:image href="https://i1.hdslb.com/bfs/face/c19a6bc8b889b9d37ee9d2804c1367b6c2ef1ea1.jpg"/>
+        <itunes:author>菊花花</itunes:author>
+        <itunes:owner>
+            <itunes:name>菊花花</itunes:name>
+        </itunes:owner>
+        <itunes:type>episodic</itunes:type>
+        <itunes:category text="Sleep Aids">
+            <itunes:category text="ASMR"/>
+        </itunes:category>
+        <itunes:explicit>true</itunes:explicit>
+        <item>
+            <title>新年陪睡第4弹 色气全开 姐姐的特殊服务</title>
+            <link>https://1drv.ms/u/c/de70e591e5658c2f/EZyDXtGRkz9Nt9dGh6yIFZABC6dIRErB_c3gmzOc_luiow?e=b7ad3n</link>
+            <pubDate>Thu, 11 Aug 2022 14:01:01 +0800</pubDate>
+            <guid>asmr-jhh-vol-00100</guid>
+            <enclosure url="https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvYy9kZTcwZTU5MWU1NjU4YzJmL0VaeURYdEdSa3o5TnQ5ZEdoNnlJRlpBQkM2ZElSRXJCX2MzZ216T2NfbHVpb3c_ZT1iN2FkM24.mp3" type="audio/mpeg"/>
+            <itunes:duration>00:13:28</itunes:duration>
+            <description><![CDATA[ 菊花花 ]]></description>
+            <itunes:image href="https://i1.hdslb.com/bfs/face/c19a6bc8b889b9d37ee9d2804c1367b6c2ef1ea1.jpg"/>
+        </item>
+    </channel>
+</rss>
