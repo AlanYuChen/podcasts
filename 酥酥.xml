@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" encoding="UTF-8" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>ASMR 酥酥</title>
+        <link>https://space.bilibili.com/15149579</link>
+        <pubDate>Thu, 11 Aug 2021 14:01:01 +0800</pubDate>
+        <generator>酥酥</generator>
+        <language>zh-CN</language>
+        <description><![CDATA[ 酥酥 ]]></description>
+        <itunes:image href="https://i1.hdslb.com/bfs/face/4e7d7c5e97661be0566b3dc3d29776e4730232b1.jpg"/>
+        <itunes:author>酥酥</itunes:author>
+        <itunes:owner>
+            <itunes:name>酥酥</itunes:name>
+        </itunes:owner>
+        <itunes:type>episodic</itunes:type>
+        <itunes:category text="Sleep Aids">
+            <itunes:category text="ASMR"/>
+        </itunes:category>
+        <itunes:explicit>true</itunes:explicit>
+        <item>
+            <title>小妈喂我喝她的奶</title>
+            <link>https://1drv.ms/u/c/de70e591e5658c2f/EdA3A-HNTyVMirL18VpVBJMBh8MsQBThY29BPmOckDYaXw?e=Rxp6bA</link>
+            <pubDate>Thu, 11 Aug 2021 14:01:01 +0800</pubDate>
+            <guid>asmr-ss-vol-00100</guid>
+            <description><![CDATA[ 酥酥 ]]></description>
+            <enclosure url="https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvYy9kZTcwZTU5MWU1NjU4YzJmL0VkQTNBLUhOVHlWTWlyTDE4VnBWQkpNQmg4TXNRQlRoWTI5QlBtT2NrRFlhWHc_ZT1SeHA2YkE.mp3" type="audio/mpeg"/>
+            <itunes:duration>00:14:58</itunes:duration>
+            <itunes:image href="https://i1.hdslb.com/bfs/face/4e7d7c5e97661be0566b3dc3d29776e4730232b1.jpg"/>
+        </item>
+    </channel>
+</rss>
