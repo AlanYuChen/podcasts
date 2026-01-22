@@ -17,15 +17,15 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>989804926</string>
+                    <string>com.tencent.mQQi</string>
                     <key>bundle-version</key>
-                    <string>131.4</string>
+                    <string>5.0.2</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>subtitle</key>
-                    <string>Firefox 火狐浏览器</string>
+                    <string></string>
                     <key>title</key>
-                    <string>Firefox 火狐浏览器</string>
+                    <string>QQ国际版</string>
                 </dict>
             </dict>
         </array>
