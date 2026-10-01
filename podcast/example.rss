@@ -20,6 +20,19 @@
             <itunes:category text="Drama"/>
         </itunes:category>
         <item>
+            <title>Microsoft PlayReady</title>
+            <link>https://music.163.com/m/program?id=2545755039&amp;radio=1005742348</link>
+            <pubDate>Thu, 15 Jun 2024 13:36:46 +0800</pubDate>
+            <guid>168_2544284469</guid>
+            <enclosure url="https://learn.microsoft.com/pdf?url=https%3A%2F%2Flearn.microsoft.com%2Fzh-cn%2Fplayready%2Ftoc.json" type="application/pdf"/>
+            <description><![CDATA[ Microsoft PlayReady内容访问和保护技术是一组技术，可用于通过网络更安全地分发音频/视频内容，并帮助防止未经授权的使用此内容。 ]]></description>
+            <itunes:image href="https://p2.music.126.net/aZw-6Rb3ruxy-Etor4Hj4w==/109951169591705243.jpg"/>
+            <itunes:season>3</itunes:season>
+            <itunes:episode>1</itunes:episode>
+            <podcast:season name="第三季">2</podcast:season>
+            <podcast:episode display="第一集">1</podcast:episode>
+        </item>
+        <item>
 			<title>魔童闹海</title>
 			<link>https://music.163.com/m/program?id=2545755039&amp;radio=1005742348</link>
 			<pubDate>Thu, 15 Jun 2023 13:36:46 +0800</pubDate>
@@ -33,7 +46,6 @@
             <itunes:episode>1</itunes:episode>
             <podcast:season name="第二季">2</podcast:season>
             <podcast:episode display="第一集">1</podcast:episode>
-            <podcast:transcript url="https://alanyuchen.github.io/RSS/transcript/fongshi-01-01.vtt" type="text/vtt"/>
         </item>
         <item>
             <title>演技派</title>
