@@ -20,13 +20,13 @@
             <itunes:category text="Drama"/>
         </itunes:category>
         <item>
-			<title>S02E01 本色进组</title>
+			<title>魔童闹海</title>
 			<link>https://music.163.com/m/program?id=2545755039&amp;radio=1005742348</link>
 			<pubDate>Thu, 15 Jun 2023 13:36:46 +0800</pubDate>
 			<guid>163_2544284469</guid>
-			<enclosure url="https://audio.getpodcast.xyz/redirect/163/2164326852.mp3?utm_campaign=163-1005742348-%E6%94%BE%E8%82%86&amp;utm_content=%E7%AC%AC%E4%B8%80%E6%9C%9F%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%AD%A3%EF%BC%89&amp;utm_medium=163&amp;utm_source=rss&amp;utm_term=2545755039" type="audio/mpeg"/>
+			<enclosure url="https://cdn.yzzyvip-29.com/20250801/461_0353ab4c/index.m3u8" type="application/vnd.apple.mpegurl"/>
 			<description><![CDATA[ <p>查看节目原文：<br/><a href="https://music.163.com/m/program?id=2544284469&radio=1004799241">https://music.163.com/m/program?id=2544284469&radio=1004799241</a></p> ]]></description>
-			<itunes:duration>00:39:34</itunes:duration>
+			<itunes:duration>02:25:23</itunes:duration>
 			<itunes:image href="https://p2.music.126.net/aZw-6Rb3ruxy-Etor4Hj4w==/109951169591705243.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:season>2</itunes:season>
@@ -36,7 +36,7 @@
             <podcast:transcript url="https://alanyuchen.github.io/RSS/transcript/fongshi-01-01.vtt" type="text/vtt"/>
         </item>
         <item>
-            <title>S01E01 演技派</title>
+            <title>演技派</title>
             <link>https://music.163.com/m/program?id=2545725090&amp;radio=1005742348</link>
             <pubDate>Thu, 11 Aug 2022 15:01:01 +0800</pubDate>
             <guid>163_2544276471</guid>
